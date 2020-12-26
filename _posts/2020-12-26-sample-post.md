@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Sample Post"
+date: 2020-12-26
 ---
 
 A sample post to practice Jekyll.
