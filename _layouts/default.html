@@ -1,21 +1,12 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<h1> Georgia Burr Crowther </h1>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-		</head>
-		<body>
-			{% include navigation.html %}
-
-			<div class="container">
-
-			{{ content }}
-
-			</div><!-- /.container -->
-			<footer>
-	    		{% include footer.html %}
-			</footer>
-		</body>
-	</html>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+  </body>
+</html>

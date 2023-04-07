@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: Resume
-  link: ../assets/pdfs/temp.pdf
-- name: Projects
-  link: /projects/
+- name: About
+  link: /about.html
