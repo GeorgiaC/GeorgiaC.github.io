@@ -2,6 +2,13 @@
   color: green;
 }
 
+img[src~="headshot"] {
+    float:left;
+    border-radius: 15px;
+    width:30%;
+    margin-right:100px;
+ }
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -44,11 +51,4 @@ p {
 footer {
     border-top: 2px solid #000000 ;
     font-size: .8em;
-}
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 1.5em;
-}
-ul.posts li {
-    list-style: none;
 }
