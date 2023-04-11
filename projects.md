@@ -5,9 +5,14 @@ title: Projects
 ---
 # Projects
 
-{% for image in site.static_files %}
-{% if image.path contains 'images/' %}
-  {{image.path}}
-  ![Picture]({{site.baseurl}}{{image.path}})
-{% endif %}
+{% for project in site.projects %}
+  <h2>
+    <a href="{{ project.url }}">
+      {{ project.title }}
+    </a>
+  </h2>
+  [![{{ project.title }}](/assets/images/projects/{{ project.name}}.jpg # list "{{ project.sound }}")]({{ project.url }})
 {% endfor %}
+
+
+

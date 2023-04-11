@@ -1,6 +1,10 @@
 name: Georgia
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+collections: 
+    projects:
+        output: true
+        permalink: /:collection/:name
 defaults:
   - scope:
       path: "assets/images"

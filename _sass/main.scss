@@ -9,6 +9,19 @@ img[src~="headshot"] {
     margin-right:100px;
  }
 
+ img[src~="list"] {
+    float: left;
+    border-radius: 15px;
+    width:33.333%;
+    padding: 10px;
+ }
+
+ .img-container[src~="list"] {
+    float: left;
+    width: 33.33%; /* three containers (use 25% for four, and 50% for two, etc) */
+    padding: 5px; /* if you want space between the images */
+ }
+
 body {
     margin: 60px auto;
     width: 70%;
