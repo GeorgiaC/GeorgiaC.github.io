@@ -1,0 +1,54 @@
+.current {
+  color: green;
+}
+
+img[src~="project"] {
+    float:left;
+    border-radius: 15px;
+    width:30%;
+    margin-right:100px;
+ }
+
+body {
+    margin: 60px auto;
+    width: 70%;
+    background-color: #ffffff;
+}
+nav ul, footer ul {
+    font-family:'Courier', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    font-size: 1.3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:  #2c3233  ;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #434b4c ;
+}
+h2 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #2c3233 ;
+}
+p {
+    font-size: 1em;
+    line-height: 1.2em;
+    color: #434b4c ;
+}
+footer {
+    border-top: 2px solid #000000 ;
+    font-size: .8em;
+}
