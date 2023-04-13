@@ -4,7 +4,7 @@ title: About
 ---
 # Georgia Crowther
 
-![Georgia Crowther](../assets/images/headshot.jpg # headshot "Georgia")
+![Georgia Crowther](assets/images/headshot.jpg # headshot "Georgia")
 
 Hi! I am a hardware-focused robotics engineer passionate about sustainability, equity, and the potential of new technologies on and off planet Earth. 
 
