@@ -1,8 +1,7 @@
 - name: About    
   link: /
 - name: Work and Research
-  link: /work_research/    
-  link: /projects/
+  link: /work_research/   
 - name: Projects    
   link: /projects/
 - name: Resume    

@@ -11,7 +11,7 @@ title: Projects
       {{ project.title }}
     </a>
   </h2>
-  [![{{ project.title }}](/assets/images/projects/{{ project.name}}.jpg # list "{{ project.sound }}")]({{ project.url }})
+  [![{{ project.title }}](../assets/images/projects/{{ project.name}}.jpg # list "{{ project.sound }}")]({{ project.url }})
 {% endfor %}
 
 
