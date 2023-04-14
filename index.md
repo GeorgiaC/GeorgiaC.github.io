@@ -4,7 +4,7 @@ title: About
 ---
 # Georgia Crowther
 
-<img src="assets/images/headshot.jpg" class="img-responsive" alt="">
+<img src="assets/images/headshot.jpg" class="headshot" alt="headshot">
 
 Hi! I am a hardware-focused robotics engineer passionate about sustainability, equity, and the potential of new technologies on and off planet Earth. 
 

@@ -11,7 +11,9 @@ title: Projects
       {{ project.title }}
     </a>
   </h2>
-  [![{{ project.title }}](../assets/images/projects/{{ project.name}}.jpg # list "{{ project.sound }}")]({{ project.url }})
+  <a href= "{{ project.url }}">
+    <img src="../assets/images/projects/{{ project.name }}.jpg" class="list" alt="{{ project.title }}" title=" {{ project.sound}}">
+  </a> 
 {% endfor %}
 
 

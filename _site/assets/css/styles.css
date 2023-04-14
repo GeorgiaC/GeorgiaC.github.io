@@ -2,24 +2,24 @@
   color: green;
 }
 
-img[src~=headshot] {
+img[class=headshot] {
   float: left;
   border-radius: 15px;
   width: 30%;
   margin-right: 100px;
 }
 
-img[src~=list] {
+img[class=list] {
   float: left;
   border-radius: 15px;
-  width: 33.333%;
-  padding: 10px;
+  width: 30%;
+  padding: 5px;
 }
 
-.img-container[src~=list] {
+.img-container[class=list] {
   float: left;
   width: 33.33%; /* three containers (use 25% for four, and 50% for two, etc) */
-  padding: 5px; /* if you want space between the images */
+  padding: 50px; /* if you want space between the images */
 }
 
 body {
