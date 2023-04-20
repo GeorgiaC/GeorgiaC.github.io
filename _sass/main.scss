@@ -22,6 +22,12 @@ img[class="list"] {
     padding: 50px; /* if you want space between the images */
 }
 
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+  
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -40,6 +46,7 @@ img[class="list"] {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
+    border-radius: 15px;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -68,7 +75,6 @@ img[class="list"] {
     width: 100%;
     opacity: 0;
     transition: .5s ease;
-    background-color: #008CBA;
 }
 
 .column:hover .overlay {
@@ -77,7 +83,7 @@ img[class="list"] {
 
 .text {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     position: relative;
     top: 50%;
     left: 50%;
@@ -85,6 +91,19 @@ img[class="list"] {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+.text_small {
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 5px
 }
 
 body {

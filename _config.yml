@@ -5,6 +5,9 @@ collections:
     projects:
         output: true
         permalink: /:collection/:name
+    work_research:
+        output: true
+        permalink: /:collection/:name
 defaults:
   - scope:
       path: "assets/images"
