@@ -18,21 +18,48 @@ Learn more about our research and final robotic platform <a href="https://mrsdpr
 
 <div class="row">
     <div class="column">
-        <div class="container">
-            <img src="../assets/images/work_research/Minebot/mb_1.jpg">
-            <div class="overlay">
-                <div class="text_small">The ClearField team taking MineBot out to the NREC field for testing</div>
-            </div>
+        <img src="../assets/images/work_research/Minebot/mb_1.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">The ClearField team taking MineBot out to the NREC field for testing</div>
         </div>
-        <img src="../assets/images/work_research/Minebot/mb_4.jpg">
-        <img src="../assets/images/work_research/Minebot/mb_7.jpg">
     </div>
     <div class="column">
-        <img src="../assets/images/work_research/Minebot/mb_2.jpg">
-        <img src="../assets/images/work_research/Minebot/mb_5.jpg">
+        <img src="../assets/images/work_research/Minebot/mb_2.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">Basel and David found a landmine!</div>
+        </div>
     </div>
-     <div class="column">
-        <img src="../assets/images/work_research/Minebot/mb_3.jpg">
-        <img src="../assets/images/work_research/Minebot/mb_6.jpg">
+    <div class="column">
+        <img src="../assets/images/work_research/Minebot/mb_3.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">Ed presents the ClearField project at a poster session</div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="column">
+        <img src="../assets/images/work_research/Minebot/mb_4.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">MinBot in "probing" mode</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/work_research/Minebot/mb_5.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">MineBot in "sensing" mode</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/work_research/Minebot/mb_6.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">The final validation demonstration of MineBot</div>
+        </div>
+    </div>
+<div class="row">
+    <div class="column">
+        <img src="../assets/images/work_research/Minebot/mb_7.jpg" class="listimg">
+        <div class="overlay">
+            <div class="text_small">The whole ClearField team celebrating at the National Robotics Engineering Center</div>
+        </div>
     </div>
 </div>
