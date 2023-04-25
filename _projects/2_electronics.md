@@ -7,4 +7,4 @@ sound: zap!
 ---
 # Electronics
 
-Here's a description of all my metalwork projects
+This page is under construction.

@@ -5,6 +5,6 @@ title: Tensegrital Wheel
 name: work_research_tw
 action: pedal here!
 ---
-# Social Bicycles
+# Tensegrital Wheel for Advanced Lunar Surface Mobility
 
-Here's a description of all my comedy projects
+This page is under construction.
