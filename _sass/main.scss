@@ -80,7 +80,11 @@ img[class="headshot"] {
 }
 
 .column:hover .listimg {
-    opacity: .65;
+    opacity: .75;
+}
+
+.column:hover .sublistimg {
+    opacity: .2;
 }
 
 .text {
@@ -97,7 +101,7 @@ img[class="headshot"] {
 
 .text_small {
     color: black;
-    font-size: 15px;
+    font-size: 20px;
     position: relative;
     top: 50%;
     left: 50%;

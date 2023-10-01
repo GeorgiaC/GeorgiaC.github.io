@@ -13,19 +13,19 @@ As the mechanical engineer, I designed hardware for bikes, e-bikes, and PoS kios
 
 <div class="row">
     <div class="column">
-        <img src="../assets/images/work_research/Social Bicycles/sobi_1.jpg" class="listimg">
+        <img src="../assets/images/work_research/Social Bicycles/sobi_1.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Taking an original Social Bicycles model for a ride with some 3D printed modifications</div>
         </div>
     </div>
     <div class="column">
-        <img src="../assets/images/work_research/Social Bicycles/sobi_2.jpg" class="listimg">
+        <img src="../assets/images/work_research/Social Bicycles/sobi_2.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Testing the first e-bike prototype fresh off the line at the factory in China</div>
         </div>
     </div>
     <div class="column">
-        <img src="../assets/images/work_research/Social Bicycles/sobi_3.jpg" class="listimg">
+        <img src="../assets/images/work_research/Social Bicycles/sobi_3.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">An original SoBi at our first public project, Hoboken, NJ</div>
         </div>

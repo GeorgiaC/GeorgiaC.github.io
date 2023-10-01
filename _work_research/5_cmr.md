@@ -13,19 +13,19 @@ Learn more about the current Cornell Mars Rover team and support their work <a h
 
 <div class="row">
     <div class="column">
-        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_1.jpg" class="listimg">
+        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_1.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">The 2014 CMR team prsenting Ares at the National Academy of Science's Science and Engineering Festival in Washtington, DC</div>
         </div>
     </div>
     <div class="column">
-        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_2.jpg" class="listimg">
+        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_2.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Ares won 2nd Place in the Terrain Traversal task at the University Rover Challenge in 2014</div>
         </div>
     </div>
     <div class="column">
-        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_3.jpg" class="listimg">
+        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_3.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Working on Ares's suspension</div>
         </div>
@@ -33,13 +33,13 @@ Learn more about the current Cornell Mars Rover team and support their work <a h
 </div>
 <div class="row">
     <div class="column">
-        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_5.jpg" class="listimg">
+        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_5.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Our 2013 rover, Helios, won 6th place overall in the University Rover Challenge!</div>
         </div>
     </div>
     <div class="column">
-        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_4.jpg" class="listimg">
+        <img src="../assets/images/work_research/Cornell Mars Rover/cmr_4.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Our first rover, Eos, placed 3rd at the University Rover Challenge!</div>
         </div>
