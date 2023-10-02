@@ -11,7 +11,7 @@ As a mechanical engineer on the Cornell University Sustainable Design team, I he
 
 <div class="row">
     <div class="column">
-        <img src="../assets/images/work_research/Misc/sunn.jpg" class="listimg">
+        <img src="../assets/images/work_research/Misc/sunn.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Admiring the Sunn at the EPA's P3 Design Competition for Sustainability</div>
         </div>
@@ -24,7 +24,7 @@ In 2013, I co-founded and operated Cornell's first student-use Rapid Prototyping
 
 <div class="row">
     <div class="column">
-        <img src="../assets/images/work_research/Misc/RPL.jpg" class="listimg">
+        <img src="../assets/images/work_research/Misc/RPL.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Me in the RPL</div>
         </div>
