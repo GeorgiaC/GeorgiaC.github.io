@@ -20,4 +20,10 @@ sound: knock!
             <div class="text_small">Cedar planter built for my backyard garden</div>
         </div>
     </div>
+    <div class="column">
+        <img src="../assets/images/projects/Woodwork/planterprogress.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">In-progress herb garden planter</div>
+        </div>
+    </div>
 </div>
