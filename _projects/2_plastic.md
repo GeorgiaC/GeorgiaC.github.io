@@ -7,6 +7,8 @@ sound: ooze!
 ---
 # Plastic
 
+Many of my designs here are available to print at home from my <a href="https://www.thingiverse.com/robotlaren/designs">Thingiverse profile.</a>
+
 <div class="row">
     <div class="column">
         <img src="../assets/images/projects/Plastic/3Dprinting.gif" class="sublistimg">
