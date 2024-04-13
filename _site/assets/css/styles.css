@@ -138,7 +138,7 @@ nav ul li, footer ul li {
 
 a {
   text-decoration: none;
-  color: #626e6f;
+  color: rgb(152, 67, 81);
 }
 
 a:hover {
@@ -168,7 +168,7 @@ footer {
   bottom: 0;
   left: 20px;
   border-top: 0.2px solid #000000;
-  font-size: 0.85em;
+  font-size: 0.95em;
 }
 
 /*# sourceMappingURL=styles.css.map */

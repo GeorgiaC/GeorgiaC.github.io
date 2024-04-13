@@ -9,6 +9,26 @@ sound: clang!
 
 <div class="row">
     <div class="column">
+        <img src="../assets/images/projects/Metalwork/Decorative.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Decorative handle for a blacksmithed fireplace poker</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/projects/Metalwork/BinerMold.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">CNCed injection mold for four carabiners</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/projects/Metalwork/lsmoldfull.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Part after a run on the injection molder</div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="column">
         <img src="../assets/images/projects/Metalwork/lsmold.jpg" class="sublistimg">
         <div class="overlay">
             <div class="text_small">My nearly-completed CNCed light switch cover mold for the plastic injection molder.</div>
@@ -17,7 +37,7 @@ sound: clang!
     <div class="column">
         <img src="../assets/images/projects/Metalwork/injectionmolding.gif" class="sublistimg">
         <div class="overlay">
-            <div class="text_small">Keep an eye out for my maker's mark!</div>
+            <div class="text_small">Making of an injection mold</div>
         </div>
     </div>
     <div class="column">
