@@ -2,14 +2,14 @@
 permalink: /work_research/trf
 layout: default
 title: The Reclamation Factory
-name: work_research_trf
+name: work_research_recfac
 action: turn it into something new!
 ---
-# The Reclamation Factory
+# Reclamation Factory
 
-I'm the founder and a robotics engineer at the Pittsburgh based robotics startup, The Reclamation Factory. 
+I'm the founder and a robotics engineer at the Pittsburgh based robotics startup, Reclamation Factory. 
 
-We're building automated hardware for communities that transforms plastic trash into usable manufacturing source material. See the work we're doing and support our mission  <a href="https://www.thereclamationfactory.com/"> here! </a>
+We're building automated hardware and machine learning systems that transforms plastic waste into valuable manufacturing source material. See the work we're doing and support our mission  <a href="https://www.reclamationfactory.com/"> here! </a>
 
 <div class="row">
     <div class="column">
