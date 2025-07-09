@@ -15,7 +15,7 @@ We're building automated hardware and machine learning systems that transforms p
     <div class="column">
         <img src="../assets/images/work_research/The Reclamation Factory/recfac_rendering.png" class="sublistimg">
         <div class="overlay">
-            <div class="text_small">Transparent, accessible, and practical plastic recycling is on the way!</div>
+            <div class="text_small">Transparent, accessible, and automated plastic reclamation!</div>
         </div>
     </div>
 </div>
