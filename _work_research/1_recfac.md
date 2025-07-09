@@ -1,5 +1,5 @@
 ---
-permalink: /work_research/trf
+permalink: /work_research/recfac
 layout: default
 title: The Reclamation Factory
 name: work_research_recfac
