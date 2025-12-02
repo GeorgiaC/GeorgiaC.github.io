@@ -7,7 +7,27 @@ sound: pow!
 ---
 # Other
 
+
 <div class="row">
+ <div class="column">
+        <img src="../assets/images/projects/Other/socks.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Hand knit socks</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/projects/Other/towel.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Hand knit hand towel</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/projects/Other/hat.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Appropriately themed bike helmet liner</div>
+        </div>
+    </div>
+</div>
  <div class="column">
         <img src="../assets/images/projects/Other/pghstamps.jpg" class="sublistimg">
         <div class="overlay">

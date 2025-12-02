@@ -13,6 +13,26 @@ I also teach plastic recycling and injection molding classes at Protohaven in Pi
 
 <div class="row">
     <div class="column">
+        <img src="../assets/images/projects/Plastic/cosmosis.jpeg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Cosmosis - Concept by Dick Esterle. Designed and CNC routed by me</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/projects/Plastic/coaster_mold.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small"> Custom coaster injection mold made for Reimagined Recycling</div>
+        </div>
+    </div>
+    <div class="column">
+        <img src="../assets/images/projects/Plastic/hextiles.jpg" class="sublistimg">
+        <div class="overlay">
+            <div class="text_small">Custom hexagonal tile mold made for Reimagined Recycling</div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="column">
         <img src="../assets/images/projects/Plastic/Backsplash.png" class="sublistimg">
         <div class="overlay">
             <div class="text_small">Final recycled plastic sink backsplash for Prototype PGH </div>
